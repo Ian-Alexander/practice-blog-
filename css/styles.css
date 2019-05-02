@@ -1,0 +1,11 @@
+.important{
+  font-weight: bold;
+  color:red;
+}
+.unimportant{
+  font-style: oblique;
+  color:blue;
+}
+.unneeded {
+  color: green;
+}
